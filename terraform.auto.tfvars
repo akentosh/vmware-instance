@@ -1,4 +1,4 @@
-name = "rchao"
+name = "adam"
 dc = "PacketDatacenter"
 cluster_name = "MainCluster"
 datastore_name = "datastore1"
